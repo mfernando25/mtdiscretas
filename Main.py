@@ -1,0 +1,1 @@
+print("labo discretas 504")
